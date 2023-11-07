@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR_PMRI", "ExamenR_PMRI.csproj", "{F63A9D42-88A1-4B5A-965D-3DAB2F2A8904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63A9D42-88A1-4B5A-965D-3DAB2F2A8904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63A9D42-88A1-4B5A-965D-3DAB2F2A8904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63A9D42-88A1-4B5A-965D-3DAB2F2A8904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63A9D42-88A1-4B5A-965D-3DAB2F2A8904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F065DB1-A4BC-44AB-BECB-2D7B20DE5EFE}
+	EndGlobalSection
+EndGlobal
