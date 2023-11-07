@@ -22,16 +22,16 @@ namespace ExamenR_PMRI.clases
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("\nEl vendedor 1:"{tabla[0,0] + tabla[1,0] + tabla[2,0] + tabla[3,0] + tabla[4,0]});
-            Console.WriteLine("El vendedor 2:" { tabla[0,1] + tabla[1,1] + tabla[2,1] + tabla[3,1] + tabla[4,1]});
-            Console.WriteLine("El vendedor 3:" { tabla[0,2] + tabla[1,2] + tabla[2,2] + tabla[3,2] + tabla[4,2]});
-            Console.WriteLine("El vendedor 4:" { tabla[0,3] + tabla[1,3] + tabla[2,3] + tabla[3,3] + tabla[4,3]});
+            Console.WriteLine($"\nEl vendedor 1:{tabla[0,0] + tabla[1,0] + tabla[2,0] + tabla[3,0] + tabla[4,0]}");
+            Console.WriteLine($"El vendedor 2: { tabla[0,1] + tabla[1,1] + tabla[2,1] + tabla[3,1] + tabla[4,1]}");
+            Console.WriteLine($"El vendedor 3: { tabla[0,2] + tabla[1,2] + tabla[2,2] + tabla[3,2] + tabla[4,2]}");
+            Console.WriteLine($"El vendedor 4: { tabla[0,3] + tabla[1,3] + tabla[2,3] + tabla[3,3] + tabla[4,3]}");
 
-            Console.WriteLine("\nEl producto 1:" { tabla[0, 0] + tabla[0, 1] + tabla[0,2] + tabla[0,3]});
-            Console.WriteLine("El producto 2:" { tabla[1, 0] + tabla[1, 1] + tabla[1,2] + tabla[1,3]});
-            Console.WriteLine("El producto 3:" { tabla[2, 0] + tabla[2, 1] + tabla[2,2] + tabla[2,3]});
-            Console.WriteLine("El producto 4:" { tabla[3, 0] + tabla[3, 1] + tabla[3, 2] + tabla[3,3]});
-            Console.WriteLine("El producto 5:" { tabla[4, 0] + tabla[4, 1] + tabla[4, 2] + tabla[4,3]});
+            Console.WriteLine($"\nEl producto 1: { tabla[0, 0] + tabla[0, 1] + tabla[0,2] + tabla[0,3]}");
+            Console.WriteLine($"El producto 2: { tabla[1, 0] + tabla[1, 1] + tabla[1,2] + tabla[1,3]}");
+            Console.WriteLine($"El producto 3:{ tabla[2, 0] + tabla[2, 1] + tabla[2,2] + tabla[2,3]}");
+            Console.WriteLine($"El producto 4: { tabla[3, 0] + tabla[3, 1] + tabla[3, 2] + tabla[3,3]}");
+            Console.WriteLine($"El producto 5: { tabla[4, 0] + tabla[4, 1] + tabla[4, 2] + tabla[4,3]}");
 
         }
     }
